@@ -1,0 +1,4 @@
+# == Configuration repo for my neovim setting ==
+#.gitignore
+scoop
+treesitter-parsers
